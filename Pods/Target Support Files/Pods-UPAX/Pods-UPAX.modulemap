@@ -1,0 +1,6 @@
+module Pods_UPAX {
+  umbrella header "Pods-UPAX-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -2,7 +2,7 @@
 //  AppDelegate.swift
 //  UPAX
 //
-//  Created by Wiggi on 12/04/22.
+//  Created by Fausto César Reyes on 12/04/22.
 //
 
 import UIKit
