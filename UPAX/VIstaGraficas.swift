@@ -12,7 +12,9 @@ class VIstaGraficas: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         let service =  APIRest(baseUrl: "https://us-central1-bibliotecadecontenido.cloudfunctions.net/")
-        service.getAllData(endPoint:"helloWorld")
+        service.getAllColors(endPoint:"helloWorld")
+        
+        service.getAllQuestions(endPoint:"helloWorld")
     }
 
 }
